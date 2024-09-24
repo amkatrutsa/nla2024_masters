@@ -4,7 +4,7 @@
 |----|----|----| :----: |
 | 09.09.2024 | [General info about the course.](./lectures/general_info.ipynb) [Floating point numbers.](./lectures/lecture1/lecture-1.ipynb) | | |
 | 16.09.2024 | [Vector norms, compressed sensing problem, and algorithms stability](./lectures/lecture2/lecture2.ipynb) | |
-| 23.09.2024 | Matrix norms and unitary matrices | | 
+| 23.09.2024 | [Matrix norms and unitary matrices](./lectures/lecture3/lecture3.ipynb) | | 
 | 30.09.2024 | Matrix rank. Low-rank matrix approximation and Singular Value Decomposition (SVD) | | | 
 | 07.10.2024 |  |  |
 | 14.10.2024 |  | | | 
