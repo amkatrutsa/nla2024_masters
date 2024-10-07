@@ -6,7 +6,7 @@
 | 16.09.2024 | [Vector norms, compressed sensing problem, and algorithms stability](./lectures/lecture2/lecture2.ipynb) | |
 | 23.09.2024 | [Matrix norms and unitary matrices](./lectures/lecture3/lecture3.ipynb) | [Project presentation slides template](https://docs.google.com/presentation/d/1N5g52k7jJiJTLqfpj24grYPfakga8KLvFLWpBCwzL6k/edit?usp=sharing) | 
 | 30.09.2024 | [Matrix rank. Low-rank matrix approximation and Singular Value Decomposition (SVD)](./lectures/lecture4/lecture4.ipynb) | | [Home assignment 1](./hw/hw1.ipynb) <br> Deadline: October 20, 23:59 MSK | 
-| 07.10.2024 |  |  |
+| 07.10.2024 | [Matrix multiplication and BLAS](./lectures/lecture5/lecture5.ipynb)  |  |
 | 14.10.2024 |  | | | 
 | 21.10.2024 |  | | |
 | 28.10.2024 |  | Discussion of project proposals |
