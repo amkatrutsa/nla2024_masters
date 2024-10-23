@@ -8,7 +8,7 @@
 | 30.09.2024 | [Matrix rank. Low-rank matrix approximation and Singular Value Decomposition (SVD)](./lectures/lecture4/lecture4.ipynb) | | [Home assignment 1](./hw/hw1.ipynb) <br> Deadline: October 20, 23:59 MSK | 
 | 07.10.2024 | [Matrix multiplication and BLAS](./lectures/lecture5/lecture5.ipynb)  |  |
 | 14.10.2024 | [Strassen algorithm and intro to Gaussian elimination](./lectures/lecture6/lecture6.ipynb) | | | 
-| 21.10.2024 |  | | |
+| 21.10.2024 | [LU with pivoting. Condition number.](./lectures/lecture7/lecture7.ipynb) | | |
 | 28.10.2024 |  | Discussion of project proposals |
 | 04.11.2024 | Official holiday | | | 
 | 11.11.2024 |  | | |
