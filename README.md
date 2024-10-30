@@ -9,7 +9,7 @@
 | 07.10.2024 | [Matrix multiplication and BLAS](./lectures/lecture5/lecture5.ipynb)  |  |
 | 14.10.2024 | [Strassen algorithm and intro to Gaussian elimination](./lectures/lecture6/lecture6.ipynb) | | | 
 | 21.10.2024 | [LU with pivoting. Condition number.](./lectures/lecture7/lecture7.ipynb) | | |
-| 28.10.2024 |  | Discussion of project proposals |
+| 28.10.2024 | [QR decomposition](./lectures/lecture8/lecture8.ipynb) | Discussion of project proposals |
 | 04.11.2024 | Official holiday | | | 
 | 11.11.2024 |  | | |
 | 18.11.2024 |  | | | 
