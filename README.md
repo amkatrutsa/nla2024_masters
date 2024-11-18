@@ -11,7 +11,7 @@
 | 21.10.2024 | [LU with pivoting. Condition number.](./lectures/lecture7/lecture7.ipynb) | | |
 | 28.10.2024 | [QR decomposition](./lectures/lecture8/lecture8.ipynb) | Discussion of project proposals |
 | 04.11.2024 | Official holiday | | | 
-| 11.11.2024 |  | | |
+| 11.11.2024 | [Linear least squares problem. Eigendecomposition. Power method.](./lectures/lecture9/lecture9.ipynb) | | |
 | 18.11.2024 |  | | | 
 | 25.11.2024 |  | | |
 | 02.12.2024 |  | | |
