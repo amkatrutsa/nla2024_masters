@@ -12,9 +12,9 @@
 | 28.10.2024 | [QR decomposition](./lectures/lecture8/lecture8.ipynb) | Discussion of project proposals |
 | 04.11.2024 | Official holiday | | | 
 | 11.11.2024 | [Linear least squares problem. Eigendecomposition. Power method.](./lectures/lecture9/lecture9.ipynb) | | |
-| 18.11.2024 |  | | | 
-| 25.11.2024 |  | | |
-| 02.12.2024 |  | | |
-| 09.12.2024 | | | |
+| 18.11.2024 | [QR algorithm and how to compute SVD](./lectures/lecture10/lecture10.ipynb) | | | 
+| 25.11.2024 | Sparse matrices and intro to iterative methods | | |
+| 02.12.2024 | Krylov methods | | |
+| 09.12.2024 | Randomized linear algebra | | |
 | 16.12.2024 | Projects presentations | | |
 
