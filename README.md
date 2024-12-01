@@ -13,7 +13,7 @@
 | 04.11.2024 | Official holiday | | | 
 | 11.11.2024 | [Linear least squares problem. Eigendecomposition. Power method.](./lectures/lecture9/lecture9.ipynb) | | |
 | 18.11.2024 | [QR algorithm and how to compute SVD](./lectures/lecture10/lecture10.ipynb) | | | 
-| 25.11.2024 | Sparse matrices and intro to iterative methods | | |
+| 25.11.2024 | [Sparse matrices](./lectures/lecture11/lecture11.ipynb) | | |
 | 02.12.2024 | Krylov methods | | |
 | 09.12.2024 | Randomized linear algebra | | |
 | 16.12.2024 | Projects presentations | | |
